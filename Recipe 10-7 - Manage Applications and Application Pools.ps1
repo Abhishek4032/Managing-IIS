@@ -3,7 +3,7 @@
 #  1. Import the web admin module
 Import-Module WebAdministration
 
-# 2. Create new application poor
+# 2. Create new application pool
 New-WebAppPool -Name WWW2Pool
 
 # 3. Create new application in the pool
